@@ -1,4 +1,4 @@
-**Simple Windows .net core console application to complete the following task(s):**
+**Simple Windows .net core console application to complete the following task(s):** (Tasted on Windows 11 Pro 25H2)
 
 #1 Auto Enable Desktop / Server Wifi
 
